@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-24T12:49:29 EET" name="Suite" finished-at="2023-10-24T12:49:36 EET" duration-ms="7139">
+    <groups>
+    </groups>
+    <test started-at="2023-10-24T12:49:29 EET" name="Happy Senario" finished-at="2023-10-24T12:49:36 EET" duration-ms="7139">
+      <class name="test2.SignUp">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:test2.SignUp@5a5c128]" started-at="2023-10-24T12:49:29 EET" name="SetUp" finished-at="2023-10-24T12:49:31 EET" duration-ms="2150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Sad_Senario_Signup()[pri:0, instance:test2.SignUp@5a5c128]" started-at="2023-10-24T12:49:31 EET" name="Sad_Senario_Signup" finished-at="2023-10-24T12:49:36 EET" duration-ms="4927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sad_Senario_Signup -->
+        <test-method is-config="true" signature="MyAfterTest()[pri:0, instance:test2.SignUp@5a5c128]" started-at="2023-10-24T12:49:36 EET" name="MyAfterTest" finished-at="2023-10-24T12:49:36 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyAfterTest -->
+      </class> <!-- test2.SignUp -->
+    </test> <!-- Happy Senario -->
+  </suite> <!-- Suite -->
+</testng-results>
